@@ -1,10 +1,23 @@
 *{
-        margin-top: 0%;
+        margin-top: 2%;
         margin-left: 1em;
         margin-right: 1em;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
 
-    body{
+body{
         background-color: rgb(180, 186, 192);
+    }
+.Page{
+        background-color: rgb(255, 255, 255);
+        border: 1px;
+        border-radius: 15px;
+    }
+#Menu_Symbol{
+        width: 50px;
+        height: 50px;
+        position: fixed;
+        margin-left: 1px;
+        margin-bottom: 1px;
+        margin-top: 10px;
     }
